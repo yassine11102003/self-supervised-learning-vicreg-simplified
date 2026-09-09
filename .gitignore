@@ -3,5 +3,4 @@ __pycache__/
 *.pth
 .venv/
 .ipynb_checkpoints/
-*.png
 data/
